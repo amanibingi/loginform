@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    background-image: url(login.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.signin_form {
+    width: 350px;
+    box-shadow: 0 0 3px 0rgba(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+.signin_form h1 {
+    color: #1c8adb;
+    margin-bottom: 30px;
+}
+
+.inputbox {
+    border-radius: 20px;
+    padding: 8px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+}
+
+button {
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.signup-btn {
+    background-color: #1c8adb;
+}
+
+hr {
+    margin-top: 20px;
+    width: 80%;
+}
+
+.or {
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+
+img {
+    width: 150px;
+    margin-top: -80px;
+    border-radius: 80px;
+    background-blend-mode: 0.5;
+}
+
+.fa-google {
+    padding: 5px;
+}
